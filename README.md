@@ -15,3 +15,9 @@ Os seguintes cursos foram utilizados como material de estudo:
 ## Contribuições
 
 Embora este repositório seja principalmente para meu uso pessoal, sinta-se à vontade para usar qualquer material que você achar útil para seus próprios estudos. Se você tiver alguma sugestão ou correção, por favor, abra uma issue ou um pull request.
+
+## Projetos Práticos
+
+### Website Boilerplate
+
+Este é um projeto simples que criei para praticar os comandos básicos do Linux que aprendi. O projeto foi desenvolvido usando a linha de comando, conforme ensinado nas lições do freeCodeCamp. Você pode encontrar os arquivos do projeto na pasta `website-boilerplate`.
